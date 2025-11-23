@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MindVault",
+  "description": "私人智能资料库。使用 Gemini AI 自动整理书签、笔记和资料。支持 Cloudflare 部署。",
+  "requestFramePermissions": []
+}
